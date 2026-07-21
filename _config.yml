@@ -1,0 +1,10 @@
+title: QR Security - Privacy Policy
+description: Privacy Policy for QR Security app
+theme: minima
+
+# Exclude from processing
+exclude:
+  - .github/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
