@@ -1,0 +1,27 @@
+# Next.js
+node_modules/
+.next/
+out/
+build/
+.env*.local
+
+# Jekyll backup (kept for reference)
+_config.yml.bak
+_includes.bak/
+
+# OS
+.DS_Store
+*.pem
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel
+
+# IDEs
+.idea/
+.vscode/
+*.iml
