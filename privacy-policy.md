@@ -1,17 +1,17 @@
-# Privacy Policy for Aura
+# Privacy Policy for Aura App
 
 **Developer / Legal Entity:** Aura Digital  
-**App Name:** Aura  
+**App Name:** Aura App  
 **Google Play Package ID:** com.qrsecurity.qr_security_entry  
 **Apple App Store Bundle ID:** com.qrsecurity.qrSecurityEntry  
 **Website:** https://www.auradigitalapp.com  
 
 **Last Updated**: September 2026  
-**Version**: 1.2
+**Version**: 1.3
 
 ## Introduction
 
-This Privacy Policy describes how **Aura Digital** ("we", "us", or "our"), the developer of the **Aura** mobile application, collects, uses, and shares your personal information when you use our App on Android or iOS.
+This Privacy Policy describes how **Aura Digital** ("we", "us", or "our"), the developer of the **Aura App** mobile application, collects, uses, and shares your personal information when you use our App on Android or iOS.
 
 ## Information We Collect
 
@@ -191,7 +191,7 @@ Your continued use of the App after changes constitutes acceptance of the update
 If you have questions, concerns, or requests regarding this Privacy Policy or your personal data:
 
 **Developer:** Aura Digital  
-**App:** Aura  
+**App:** Aura App  
 **Google Play Package ID:** com.qrsecurity.qr_security_entry  
 **Apple App Store Bundle ID:** com.qrsecurity.qrSecurityEntry  
 **Email**: support@auradigitalapp.com  
