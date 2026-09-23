@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Privacy Policy — Aura QR Security App',
-  description: 'Full privacy policy for the Aura QR entry management app. Covers data collection, storage, your rights (GDPR, CCPA), and how to contact us.',
+  title: 'Privacy Policy — QR Security by Aura Digital',
+  description: 'Full privacy policy for QR Security (com.qrsecurity.qr_security_entry), developed by Aura Digital. Covers data collection, storage, your rights (GDPR, CCPA), and how to contact us.',
 };
 
 export default function PrivacyPolicy() {
@@ -25,14 +25,31 @@ export default function PrivacyPolicy() {
             fontFamily:'var(--font-display)', fontSize:'2.2rem', fontWeight:800,
             lineHeight:1.15, marginBottom:'8px',
           }}>Privacy Policy for QR Security</h1>
+          <p style={{color:'var(--color-text-muted)', fontSize:'0.88rem', marginBottom:'8px'}}>
+            Developed by: <strong style={{color:'var(--color-text)'}}>Aura Digital</strong> · App: <strong style={{color:'var(--color-text)'}}>QR Security</strong>
+          </p>
+          <p style={{color:'var(--color-text-muted)', fontSize:'0.88rem', marginBottom:'8px'}}>
+            Package: <code style={{fontSize:'0.82rem', background:'var(--color-border)', padding:'2px 6px', borderRadius:'4px'}}>com.qrsecurity.qr_security_entry</code>
+          </p>
           <p style={{color:'var(--color-text-muted)', fontSize:'0.88rem', marginBottom:'40px'}}>
-            Last Updated: January 2026 · Version 1.0
+            Last Updated: September 2026 · Version 1.1
           </p>
 
           <div style={{display:'flex', flexDirection:'column', gap:'32px'}} className="privacy-content">
 
             <PolicySection title="Introduction">
-              <p>This Privacy Policy describes how QR Security ("we", "our", or "the App") collects, uses, and shares your personal information when you use our mobile application.</p>
+              <p>
+                This Privacy Policy describes how <strong>Aura Digital</strong> ("we", "us", or "our"), the developer of the
+                {' '}<strong>QR Security</strong> mobile application (Google Play package ID:{' '}
+                <code style={{fontSize:'0.82rem', background:'var(--color-border)', padding:'1px 5px', borderRadius:'3px'}}>com.qrsecurity.qr_security_entry</code>),
+                collects, uses, and shares your personal information when you use our App.
+              </p>
+              <p style={{marginTop:'10px'}}>
+                <strong>Developer / Legal Entity:</strong> Aura Digital<br/>
+                <strong>App Name on Google Play:</strong> QR Security<br/>
+                <strong>Website:</strong> <a href="https://www.auradigitalapp.com" style={{color:'var(--color-blue-light)'}}>www.auradigitalapp.com</a><br/>
+                <strong>Contact:</strong> <a href="mailto:support@auradigitalapp.com" style={{color:'var(--color-blue-light)'}}>support@auradigitalapp.com</a>
+              </p>
             </PolicySection>
 
             <PolicySection title="Information We Collect">
@@ -137,7 +154,10 @@ export default function PrivacyPolicy() {
             </PolicySection>
 
             <PolicySection title="Contact Us">
+              <p><strong>Developer:</strong> Aura Digital</p>
+              <p><strong>App:</strong> QR Security (com.qrsecurity.qr_security_entry)</p>
               <p><strong>Email:</strong> <a href="mailto:support@auradigitalapp.com" style={{color:'var(--color-blue-light)'}}>support@auradigitalapp.com</a></p>
+              <p><strong>Website:</strong> <a href="https://www.auradigitalapp.com" style={{color:'var(--color-blue-light)'}}>www.auradigitalapp.com</a></p>
               <p><strong>Address:</strong> Caracas, Venezuela</p>
             </PolicySection>
           </div>
