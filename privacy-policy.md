@@ -1,16 +1,17 @@
-# Privacy Policy for QR Security
+# Privacy Policy for Aura
 
 **Developer / Legal Entity:** Aura Digital  
-**App Name on Google Play:** QR Security  
-**Package ID:** com.qrsecurity.qr_security_entry  
+**App Name:** Aura  
+**Google Play Package ID:** com.qrsecurity.qr_security_entry  
+**Apple App Store Bundle ID:** com.qrsecurity.qrSecurityEntry  
 **Website:** https://www.auradigitalapp.com  
 
 **Last Updated**: September 2026  
-**Version**: 1.1
+**Version**: 1.2
 
 ## Introduction
 
-This Privacy Policy describes how **Aura Digital** ("we", "us", or "our"), the developer of the **QR Security** mobile application (Google Play package ID: `com.qrsecurity.qr_security_entry`), collects, uses, and shares your personal information when you use our App.
+This Privacy Policy describes how **Aura Digital** ("we", "us", or "our"), the developer of the **Aura** mobile application, collects, uses, and shares your personal information when you use our App on Android or iOS.
 
 ## Information We Collect
 
@@ -190,7 +191,9 @@ Your continued use of the App after changes constitutes acceptance of the update
 If you have questions, concerns, or requests regarding this Privacy Policy or your personal data:
 
 **Developer:** Aura Digital  
-**App:** QR Security (com.qrsecurity.qr_security_entry)  
+**App:** Aura  
+**Google Play Package ID:** com.qrsecurity.qr_security_entry  
+**Apple App Store Bundle ID:** com.qrsecurity.qrSecurityEntry  
 **Email**: support@auradigitalapp.com  
 **Website**: https://www.auradigitalapp.com  
 **Address**: Caracas, Venezuela
@@ -213,6 +216,6 @@ By using QR Security, you consent to this Privacy Policy and agree to its terms.
 
 ---
 
-**Version**: 1.1
+**Version**: 1.2
 **Effective Date**: September 2026
 **App Version**: 1.0.2
